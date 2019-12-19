@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\DnKiller\DnKiller\bin\Debug\DnKiller.exe.config
+C:\Users\pc\source\repos\DnKiller\DnKiller\bin\Debug\DnKiller.exe
+C:\Users\pc\source\repos\DnKiller\DnKiller\bin\Debug\DnKiller.pdb
+C:\Users\pc\source\repos\DnKiller\DnKiller\obj\Debug\DnKiller.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\DnKiller\DnKiller\obj\Debug\DnKiller.exe
+C:\Users\pc\source\repos\DnKiller\DnKiller\obj\Debug\DnKiller.pdb
+E:\Sources\DnKiller\DnKiller\bin\Debug\DnKiller.exe.config
+E:\Sources\DnKiller\DnKiller\bin\Debug\DnKiller.exe
+E:\Sources\DnKiller\DnKiller\bin\Debug\DnKiller.pdb
+E:\Sources\DnKiller\DnKiller\obj\Debug\DnKiller.csprojAssemblyReference.cache
+E:\Sources\DnKiller\DnKiller\obj\Debug\DnKiller.exe
+E:\Sources\DnKiller\DnKiller\obj\Debug\DnKiller.pdb
